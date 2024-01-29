@@ -1,0 +1,12 @@
+{
+	chapter_groups: [
+		{ id: "0C8FA6EE4828F266", title: "&lResearch Papers" }
+		{ id: "063215D6A3060400", title: "&lBasic Tech" }
+		{ id: "2E909DF337DB0A54", title: "&lAdvanced Tech" }
+		{ id: "7880DAE5186B4734", title: "&lElite Tech" }
+		{ id: "5ACAB4963B8539AD", title: "&lUltimate Tech" }
+		{ id: "7921F36F1DB604AD", title: "&lHellish Tech" }
+		{ id: "62C5FE5ECA80879B", title: "&lVoid Tech" }
+		{ id: "7C41DB637AE42D48", title: "&lFinal Tech" }
+	]
+}

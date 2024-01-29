@@ -1,0 +1,10 @@
+{
+	id: "41B78CED98B393A0"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{ count: 36, item: "mekanism:fluorite_ore" }
+		{ count: 36, item: "mekanism:deepslate_fluorite_ore" }
+	]
+	title: "Fluorite"
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 24,
+        "max": 40
+      },
+      "entries": [		
+        {"type": "minecraft:item", "weight": 25, "name": "caveopolis:iron_fragment"},
+        {"type": "minecraft:item", "weight": 25, "name": "techopolis:aluminum_fragment"},
+        {"type": "minecraft:empty", "weight": 50}
+      ]
+    }
+  ]
+}

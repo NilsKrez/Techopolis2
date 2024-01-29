@@ -1,0 +1,10 @@
+{
+	id: "5B0B3E6124CE315F"
+	loot_size: 1
+	order_index: 13
+	rewards: [
+		{ count: 36, item: "opolisutilities:ender_ore" }
+		{ count: 36, item: "opolisutilities:deepslate_ender_ore" }
+	]
+	title: "Ender Ore"
+}

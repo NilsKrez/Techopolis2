@@ -1,0 +1,10 @@
+{
+	id: "6C45079BA7340F4D"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ count: 36, item: "alltheores:aluminum_ore" }
+		{ count: 36, item: "alltheores:deepslate_aluminum_ore" }
+	]
+	title: "Aluminum Ore"
+}

@@ -1,0 +1,10 @@
+{
+	id: "2E95674B5545F8C1"
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{ count: 36, item: "essence:deepslate_essence_ore" }
+		{ count: 36, item: "essence:essence_ore" }
+	]
+	title: "Essence Ore"
+}

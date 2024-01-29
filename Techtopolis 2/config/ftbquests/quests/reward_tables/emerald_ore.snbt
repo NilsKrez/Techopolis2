@@ -1,0 +1,10 @@
+{
+	id: "68BA5A4CFF171711"
+	loot_size: 1
+	order_index: 15
+	rewards: [
+		{ count: 36, item: "minecraft:emerald_ore" }
+		{ count: 36, item: "minecraft:deepslate_emerald_ore" }
+	]
+	title: "Emerald Ore"
+}

@@ -1,0 +1,10 @@
+{
+	id: "009F1BA752E6B391"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ count: 36, item: "minecraft:lapis_ore" }
+		{ count: 36, item: "minecraft:deepslate_lapis_ore" }
+	]
+	title: "Lapis Ore"
+}

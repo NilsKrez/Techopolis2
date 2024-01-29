@@ -1,0 +1,190 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "information"
+	group: ""
+	id: "3601A2B933D45F1C"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Welcome to Techopolis 2 a modpack all about automation"]
+			id: "6EFBC296EE7C548F"
+			rewards: [{
+				id: "04D36186E81AB784"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "158C739DEA0542EC"
+				title: "Welcome To Techopolis 2"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: ["This modpack uses game stage to block certain mods, items and blocks until they can be unlocked using research paper"]
+			id: "22C7618730BFF6DD"
+			rewards: [{
+				id: "44EE849E1F206F04"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4382F3D9F6D28970"
+				title: "Game Stages"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: [
+				"Miners are big multiblock structures that can be used to mine ores and blocks forever!"
+				"Miners require 36 of the ore block"
+				"These can be upgraded by placing a new cap on the top of the block"
+			]
+			id: "5C53BAD10F24A6DA"
+			rewards: [{
+				id: "2CFC9D1E6A4F6647"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "16E346D419A52C40"
+				title: "Miners"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: [
+				"Reaserch papers are craftable items that can be used to unlock new recipes, functions and mods inside the quest lines."
+				"These quests are marked as a square in the book"
+			]
+			id: "69C3852C09C7A71F"
+			rewards: [{
+				id: "6079035AB81352CB"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00933970C33FD47C"
+				title: "Research Pappers"
+				type: "checkmark"
+			}]
+			title: "Research Papers"
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: ["Technium is a powerful material used to make various different items"]
+			id: "0F202DBD3ABE9EC2"
+			rewards: [{
+				id: "10AF89B16D06C473"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12C9532BB54EF759"
+				title: "Technium is awesome"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: [
+				"No hostile mobs will naturally spawn in the world meaning you are safe to work through the night."
+				"Hostile mobs in structures and from spawners will still work! Ores and most structures do not spawn either"
+			]
+			id: "5764958CACD7B62B"
+			rewards: [{
+				id: "3F3B9014C571F884"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C500B7A4981C356"
+				title: "Hostile Mobs"
+				type: "checkmark"
+			}]
+			title: "The World"
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: ["These are used to purchase research and items in the research papers quest line"]
+			id: "4A61CA8F87555E3D"
+			rewards: [{
+				id: "72DB0370D6FFFA21"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2113E834508EBC8C"
+				title: "B Bucks"
+				type: "checkmark"
+			}]
+			title: "Tech Bucks"
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: ["This modpack can be played in a range of different ways including normal, superflat, hexlands and skyblock. Don't worry certain world types will automatically add recipes needed for you"]
+			id: "2E1BFAA4CDA028C7"
+			rewards: [
+				{
+					id: "1F6A572070D99BC8"
+					item: "opolisutilities:b_bucks"
+					type: "item"
+				}
+				{
+					id: "73403773A676D0B9"
+					item: {
+						Count: 1b
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "patchouli:world_types"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5935684DDD69302D"
+				title: "World Types"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6EFBC296EE7C548F"]
+			description: ["You can use /discord in the chat if you require any additional help"]
+			id: "6CE7FA333A527982"
+			rewards: [{
+				id: "549CE1954177D8AC"
+				item: "opolisutilities:b_bucks"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0DD9F75B374FE0D5"
+				title: "Help"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -5.5d
+		}
+	]
+	title: "&lInformation"
+}

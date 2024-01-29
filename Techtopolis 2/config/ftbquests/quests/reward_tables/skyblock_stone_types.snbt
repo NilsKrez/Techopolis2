@@ -1,0 +1,10 @@
+{
+	id: "2BD4DCD36147A6CA"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{ count: 36, item: "minecraft:dripstone_block" }
+		{ count: 36, item: "minecraft:deepslate" }
+	]
+	title: "Skyblock Stone Types"
+}

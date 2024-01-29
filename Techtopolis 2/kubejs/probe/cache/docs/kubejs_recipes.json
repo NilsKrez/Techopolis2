@@ -1,0 +1,308 @@
+{
+    "classes": [
+        {
+            "type": "document:class",
+            "className": "com.prunoideae.probejs.DocumentedRecipes",
+            "fields": [
+                {
+                    "final": true,
+                    "type": "document:field",
+                    "name": "kubejs",
+                    "fieldType": {
+                        "type": "type:class",
+                        "name": "com.prunoideae.probejs.KubeJSRecipes"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "document:class",
+            "methods": [
+                {
+                    "type": "document:method",
+                    "name": "shaped",
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.minecraft.ShapedRecipeJS"
+                    },
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "output",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.world.item.ItemStack"
+                            }
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "inputs",
+                            "paramType": {
+                                "type": "type:array",
+                                "component": {
+                                    "type": "type:array",
+                                    "component": {
+                                        "type": "type:class",
+                                        "name": "net.minecraft.world.item.crafting.Ingredient"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "document:method",
+                    "name": "shaped",
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.minecraft.ShapedRecipeJS"
+                    },
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "output",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.world.item.ItemStack"
+                            }
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "pattern",
+                            "paramType": {
+                                "type": "type:array",
+                                "component": {
+                                    "type": "type:primitive",
+                                    "name": "string"
+                                }
+                            }
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "items",
+                            "paramType": {
+                                "type": "type:object",
+                                "members": [
+                                    {
+                                        "key": {
+                                            "type": "type:primitive",
+                                            "name": "string"
+                                        },
+                                        "value": {
+                                            "type": "type:class",
+                                            "name": "net.minecraft.world.item.crafting.Ingredient"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "document:method",
+                    "name": "shapeless",
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.minecraft.ShapelessRecipeJS"
+                    },
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "output",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.world.item.ItemStack"
+                            }
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "inputs",
+                            "paramType": {
+                                "type": "type:array",
+                                "component": {
+                                    "type": "type:class",
+                                    "name": "net.minecraft.world.item.crafting.Ingredient"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "className": "com.prunoideae.probejs.KubeJSRecipes"
+        },
+        {
+            "type": "document:class",
+            "className": "dev.latvian.mods.kubejs.recipe.RecipeJS",
+            "methods": [
+                {
+                    "type": "document:method",
+                    "name": "modifyResult",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "callback",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "dev.latvian.mods.kubejs.recipe.ModifyRecipeResultCallback"
+                            },
+                            "varArg": false
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.RecipeJS"
+                    },
+                    "properties": [
+                        {
+                            "type": "property:comment",
+                            "lines": [
+                                "**NOTE**: Only valid via calling `recipes.kubejs.shaped` or `recipes.kubejs.shapeless`"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "document:method",
+                    "name": "damageIngredient",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "filter",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "dev.latvian.mods.kubejs.recipe.ingredientaction.IngredientActionFilter"
+                            },
+                            "varArg": false
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.RecipeJS"
+                    },
+                    "properties": [
+                        {
+                            "type": "property:comment",
+                            "lines": [
+                                "**NOTE**: Only valid via calling `recipes.kubejs.shaped` or `recipes.kubejs.shapeless`"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "document:method",
+                    "name": "replaceIngredient",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "filter",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "dev.latvian.mods.kubejs.recipe.ingredientaction.IngredientActionFilter"
+                            },
+                            "varArg": false
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "item",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.world.item.ItemStack"
+                            },
+                            "varArg": false
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.RecipeJS"
+                    },
+                    "properties": [
+                        {
+                            "type": "property:comment",
+                            "lines": [
+                                "**NOTE**: Only valid via calling `recipes.kubejs.shaped` or `recipes.kubejs.shapeless`"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "document:method",
+                    "name": "customIngredientAction",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "filter",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "dev.latvian.mods.kubejs.recipe.ingredientaction.IngredientActionFilter"
+                            },
+                            "varArg": false
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "id",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "java.lang.String"
+                            },
+                            "varArg": false
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.RecipeJS"
+                    },
+                    "properties": [
+                        {
+                            "type": "property:comment",
+                            "lines": [
+                                "**NOTE**: Only valid via calling `recipes.kubejs.shaped` or `recipes.kubejs.shapeless`"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "document:method",
+                    "name": "keepIngredient",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "filter",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "dev.latvian.mods.kubejs.recipe.ingredientaction.IngredientActionFilter"
+                            },
+                            "varArg": false
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:class",
+                        "name": "dev.latvian.mods.kubejs.recipe.RecipeJS"
+                    },
+                    "properties": [
+                        {
+                            "type": "property:comment",
+                            "lines": [
+                                "**NOTE**: Only valid via calling `recipes.kubejs.shaped` or `recipes.kubejs.shapeless`"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

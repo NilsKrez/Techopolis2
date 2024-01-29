@@ -1,0 +1,7 @@
+{
+	id: "247DD3ED58730FF9"
+	loot_size: 1
+	order_index: 10
+	rewards: [{ count: 36, item: "alltheores:lead_ore" }]
+	title: "Lead Ore"
+}

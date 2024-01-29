@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "techopolis:block/crystal_ore"
+    }
+}

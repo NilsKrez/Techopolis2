@@ -1,0 +1,46 @@
+# Last execution: 28-01-2024 18:29:18
+# Overview:
+	- Unified: 1501
+	- Duplicates: 197 (Individual: 551)
+	- Total Recipes: 12305
+	- Elapsed Time: 635ms
+
+# Summary: 
+Recipe type                                   |    Unifies | Duplicates |   All
+-------------------------------------------------------------------------------
+essence:resource_duplicator                   |         11 |            |    51
+immersiveengineering:alloy                    |          5 |            |     8
+immersiveengineering:arc_furnace              |         60 |            |    78
+immersiveengineering:blast_furnace            |          2 |            |     2
+immersiveengineering:bottling_machine         |          1 |            |    10
+immersiveengineering:coke_oven                |          1 |            |     3
+immersiveengineering:crusher                  |         64 |    1 (  2) |    97
+immersiveengineering:metal_press              |         59 |            |    96
+immersiveengineering:sawmill                  |         52 |            |    52
+mekanism:combining                            |         16 |            |    74
+mekanism:crushing                             |         13 |            |   314
+mekanism:enriching                            |         29 |            |   271
+mekanism:injecting                            |          2 |            |    96
+mekanism:metallurgic_infusing                 |          4 |            |    31
+mekanism:nucleosynthesizing                   |          1 |            |    20
+mekanism:pigment_extracting                   |          1 |            |   205
+mekanism:reaction                             |          3 |            |    14
+mekanism:sawing                               |        149 |            |  1717
+minecraft:blasting                            |        157 |   45 (135) |   193
+minecraft:crafting_shaped                     |        266 |   55 (141) |  2998
+minecraft:crafting_shapeless                  |        131 |   43 (119) |  1407
+minecraft:smelting                            |        157 |   46 (140) |   267
+minecraft:smithing                            |         13 |            |    18
+minecraft:stonecutting                        |          3 |            |   409
+opolisutilities:shop                          |          2 |            |    22
+powah:energizing                              |          3 |            |    15
+thermal:centrifuge                            |         11 |            |    69
+thermal:chiller                               |         13 |            |    36
+thermal:crystallizer                          |          1 |            |    11
+thermal:press                                 |        136 |    7 ( 14) |   383
+thermal:pulverizer                            |         52 |            |   110
+thermal:pulverizer_recycle                    |          2 |            |     9
+thermal:smelter                               |         60 |            |   115
+thermal:smelter_catalyst                      |          2 |            |     6
+thermal:smelter_recycle                       |         18 |            |    26
+thermal:stirling_fuel                         |          1 |            |     5

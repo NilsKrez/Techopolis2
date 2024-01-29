@@ -1,0 +1,10 @@
+{
+	id: "5C4879120C3E22B3"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ count: 36, item: "minecraft:iron_ore" }
+		{ count: 36, item: "minecraft:deepslate_iron_ore" }
+	]
+	title: "Iron Ore"
+}

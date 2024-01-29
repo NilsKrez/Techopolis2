@@ -1,0 +1,13 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 24,
+        "max": 40
+      },
+      "entries": [		
+        {"type": "minecraft:item", "weight": 50, "name": "caveopolis:uranium_fragment"}
+      ]
+    }
+  ]
+}

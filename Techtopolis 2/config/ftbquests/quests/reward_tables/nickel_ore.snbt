@@ -1,0 +1,10 @@
+{
+	id: "05C39C5D38737AC2"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ count: 36, item: "alltheores:nickel_ore" }
+		{ count: 36, item: "alltheores:deepslate_nickel_ore" }
+	]
+	title: "Nickel Ore"
+}

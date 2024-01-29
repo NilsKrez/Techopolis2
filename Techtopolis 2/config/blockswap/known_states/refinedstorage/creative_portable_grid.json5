@@ -1,0 +1,365 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "north",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "north",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "north",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "north",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "none",
+			"direction": "north",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "east",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "east",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "east",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "east",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "none",
+			"direction": "east",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "south",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "south",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "south",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "south",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "none",
+			"direction": "south",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "west",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "west",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "west",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "west",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "none",
+			"direction": "west",
+			"active": "true"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "north",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "north",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "north",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "north",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "east",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "east",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "east",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "east",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "none",
+			"direction": "east",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "south",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "south",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "south",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "south",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "none",
+			"direction": "south",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "normal",
+			"direction": "west",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "near_capacity",
+			"direction": "west",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "full",
+			"direction": "west",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "disconnected",
+			"direction": "west",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"disk_state": "none",
+			"direction": "west",
+			"active": "false"
+		},
+		"Name": "refinedstorage:creative_portable_grid"
+	}
+]

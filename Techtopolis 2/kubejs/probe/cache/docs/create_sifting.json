@@ -1,0 +1,79 @@
+{
+    "properties": [
+        {
+            "type": "property:mod",
+            "mod": "createsifter"
+        }
+    ],
+    "classes": [
+        {
+            "type": "document:class",
+            "className": "com.prunoideae.probejs.DocumentedRecipes",
+            "fields": [
+                {
+                    "type": "document:field",
+                    "name": "createsifter",
+                    "final": true,
+                    "fieldType": {
+                        "type": "type:class",
+                        "name": "com.prunoideae.probejs.CreateSifterRecipes"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "document:class",
+            "className": "com.prunoideae.probejs.CreateSifterRecipes",
+            "methods": [
+                {
+                    "type": "document:method",
+                    "name": "sifting",
+                    "returns": {
+                        "type": "type:class",
+                        "name": "com.oierbravo.createsifter.compat.kubejs.ProcessingRecipeJSNoLiquid"
+                    },
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "outputs",
+                            "paramType": {
+                                "type": "type:parameterized",
+                                "base": {
+                                    "type": "type:class",
+                                    "name": "com.prunoideae.probejs.types.ArrayOrSelf"
+                                },
+                                "params": [
+                                    {
+                                        "type": "type:class",
+                                        "name": "net.minecraft.world.item.ItemStack"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "inputs",
+                            "paramType": {
+                                "type": "type:parameterized",
+                                "base": {
+                                    "type": "type:class",
+                                    "name": "com.prunoideae.probejs.types.Of2"
+                                },
+                                "params": [
+                                    {
+                                        "type": "type:class",
+                                        "name": "net.minecraft.world.item.crafting.Ingredient"
+                                    },
+                                    {
+                                        "type": "type:class",
+                                        "name": "net.minecraft.world.item.crafting.Ingredient"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

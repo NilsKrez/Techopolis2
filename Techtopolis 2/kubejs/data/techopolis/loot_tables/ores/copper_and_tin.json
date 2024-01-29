@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 24,
+        "max": 40
+      },
+      "entries": [		
+        {"type": "minecraft:item", "weight": 25, "name": "caveopolis:copper_fragment"},
+        {"type": "minecraft:item", "weight": 25, "name": "caveopolis:tin_fragment"},
+        {"type": "minecraft:empty", "weight": 50}
+      ]
+    }
+  ]
+}

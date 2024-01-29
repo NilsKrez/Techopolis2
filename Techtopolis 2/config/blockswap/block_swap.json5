@@ -1,0 +1,133 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+{
+	// Generates all block states for all blocks in the registry.
+	"generate_all_known_states": true,
+	// Whether blocks are replaced in existing chunks.
+	"retro_gen": false,
+	/* A map of states that specifies what the "old" block state is and what its "new" block state is.
+	   See "known_states" folder("generate_all_known_states" must be set to true in this config) to see all known block states available for all blocks available in the registry.
+	   Example:
+	    "state_swapper": [
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:oak_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:birch_leaves",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"distance": "7",
+	    				"persistent": "true"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "x"
+	    			}
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:birch_log",
+	    			// Properties define the state of this block/fluid.
+	    			"Properties": {
+	    				"axis": "z"
+	    			}
+	    		}
+	    	},
+	    	{
+	    		"new": {
+	    			"Name": "minecraft:jungle_planks",
+	    		},
+	    		"old": {
+	    			"Name": "minecraft:acacia_planks",
+	    			}
+	    		}
+	    	}
+	    ]
+	*/
+	"state_swapper": [],
+	/* A map of blocks that specifies what the "old" block is and what its "new" block is.
+	   Example:
+	   	"swapper": {
+	   		"minecraft:coarse_dirt": "minecraft:dirt",
+	   		"minecraft:diamond_block": "minecraft:emerald_block"
+	   	}
+	*/
+	"swapper": { 
+	    "thermal:nickel_ore": "minecraft:stone",
+        "thermal:lead_ore": "minecraft:stone",
+        "thermal:silver_ore": "minecraft:stone",
+        "thermal:tin_ore": "minecraft:stone",
+        "thermal:cinnabar_ore": "minecraft:stone",
+        "thermal:apatite_ore": "minecraft:stone",
+        "thermal:niter_ore": "minecraft:stone",
+        "thermal:sulfur_ore": "minecraft:stone",
+        "immersiveengineering:ore_aluminum": "minecraft:stone",
+        "immersiveengineering:ore_lead": "minecraft:stone",
+        "immersiveengineering:ore_uranium": "minecraft:stone",
+        "immersiveengineering:ore_nickel": "minecraft:stone",
+        "immersiveengineering:ore_silver": "minecraft:stone",
+        "immersiveengineering:deepslate_ore_aluminum": "minecraft:deepslate",
+        "immersiveengineering:deepslate_ore_lead": "minecraft:deepslate",
+        "immersiveengineering:deepslate_ore_uranium": "minecraft:deepslate",
+        "immersiveengineering:deepslate_ore_nickel": "minecraft:deepslate",
+        "immersiveengineering:deepslate_ore_silver": "minecraft:deepslate",
+        "thermal:deepslate_nickel_ore": "minecraft:deepslate",
+        "thermal:deepslate_lead_ore": "minecraft:deepslate",
+        "thermal:deepslate_silver_ore": "minecraft:deepslate",
+        "thermal:deepslate_tin_ore": "minecraft:deepslate",
+        "thermal:deepslate_cinnabar_ore": "minecraft:deepslate",
+        "thermal:deepslate_apatite_ore": "minecraft:deepslate",
+        "thermal:deepslate_niter_ore": "minecraft:deepslate",
+        "thermal:deepslate_sulfur_ore": "minecraft:deepslate",        
+		
+		"caveopolis:mixed_stone_ore": "minecraft:stone",
+        "caveopolis:deepslate_mixed_stone_ore": "minecraft:deepslate",
+		
+		"powah:uraninite_ore_poor": "minecraft:stone",
+        "powah:deepslate_uraninite_ore_poor": "minecraft:deepslate",
+		"powah:uraninite_ore": "minecraft:stone",
+        "powah:deepslate_uraninite_ore": "minecraft:deepslate",
+		"powah:uraninite_ore_dense": "minecraft:stone",
+        "powah:deepslate_uraninite_ore_dense": "minecraft:deepslate",
+		
+        "minecraft:coal_ore": "minecraft:stone",
+        "minecraft:deepslate_coal_ore": "minecraft:deepslate",		
+        "minecraft:copper_ore": "minecraft:stone",
+        "minecraft:deepslate_copper_ore": "minecraft:deepslate",      
+		"minecraft:iron_ore": "minecraft:stone",
+        "minecraft:deepslate_iron_ore": "minecraft:deepslate"
+		
+		}
+}

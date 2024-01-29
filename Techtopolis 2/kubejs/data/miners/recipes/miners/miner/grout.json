@@ -1,0 +1,5 @@
+{
+  "type": "miners:miner_blocks",
+  "blockTag": "techopolis:grout",
+  "minerTier": 3
+}

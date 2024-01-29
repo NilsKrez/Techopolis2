@@ -1,0 +1,772 @@
+[18:20:30.151][INFO]: Successfully injected RecipeFS file system
+[18:20:30.338][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[18:20:30.344][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[18:20:30.350][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[18:20:32.515][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[18:20:32.517][INFO]: - 'crafttweaker' at version '10.1.50'
+[18:20:32.517][INFO]: - 'extendedcrafting' at version '5.1.9'
+[18:20:32.517][INFO]: - 'gamestages' at version '11.1.4'
+[18:20:32.517][INFO]: - 'immersiveengineering' at version '1.19.2-9.2.3-167'
+[18:20:32.517][INFO]: - 'itemstages' at version '5.1.3'
+[18:20:32.517][INFO]: - 'mekanism' at version '10.3.9'
+[18:20:32.517][INFO]: - 'recipestages' at version '4.0.0.7'
+[18:20:38.495][INFO]: Started loading scripts for loader 'mekanismcontent'
+[18:20:38.723][INFO]: Compiling and executing scripts
+[18:20:39.200][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:20:39.335][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[18:20:39.335][INFO]: Registering 0 custom gases.
+[18:20:39.343][INFO]: Registering 0 custom infuse types.
+[18:20:39.353][INFO]: Registering 0 custom pigments.
+[18:20:39.362][INFO]: Registering 0 custom robit skins.
+[18:20:39.368][INFO]: Registering 0 custom slurries.
+[18:20:39.659][INFO]: Started loading scripts for loader 'initialize'
+[18:20:39.682][INFO]: Compiling and executing scripts
+[18:20:39.684][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:20:39.698][INFO]: Execution for loader 'initialize' completed successfully
+[18:20:54.136][INFO]: Started loading scripts for loader 'tags'
+[18:20:54.156][INFO]: Compiling and executing scripts
+[18:20:54.161][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:20:54.169][INFO]: Execution for loader 'tags' completed successfully
+[18:21:01.505][INFO]: Started loading scripts for loader 'crafttweaker'
+[18:21:01.521][INFO]: Compiling and executing scripts
+[18:21:01.658][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:21:01.663][INFO]: Loading file 'script.zs' with priority 0
+[18:21:01.700][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [simple_storage]
+[18:21:01.700][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [storage_drawers]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [framed_blocks]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [flux_networks]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [tempad]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [tiab]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [trash_cans]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [laserio]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [xnet]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [building_gadgets]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [elevators]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ender_storage]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [little_logistics]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [thermal]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ae2]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [refinedstorage]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [mekanism]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [waystones]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [powah]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [angel_ring]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [beyond_earth]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [compressium]
+[18:21:01.701][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [immersive_aircraft]
+[18:21:01.702][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [extended_crafting]
+[18:21:01.702][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [skyblock_recipes]
+[18:21:01.702][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [superflat_recipes]
+[18:21:01.702][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [chipped]
+[18:21:01.702][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [iron_chests]
+[18:21:01.702][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ore_recipes]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [simple_storage]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [storage_drawers]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [framed_blocks]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [flux_networks]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [tempad]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [tiab]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [trash_cans]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [laserio]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [xnet]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [building_gadgets]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [elevators]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ender_storage]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [little_logistics]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [thermal]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ae2]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [refinedstorage]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [mekanism]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [waystones]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [powah]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [angel_ring]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [beyond_earth]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [compressium]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [immersive_aircraft]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [extended_crafting]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [techopolis]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [opolisutilities]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [skyblock_recipes]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [superflat_recipes]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [chipped]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [iron_chests]
+[18:21:01.702][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ore_recipes]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [simple_storage]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [storage_drawers]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [framed_blocks]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [flux_networks]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [tempad]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [tiab]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [trash_cans]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [laserio]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [xnet]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [building_gadgets]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [elevators]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ender_storage]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [little_logistics]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [thermal]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ae2]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [refinedstorage]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [mekanism]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [waystones]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [powah]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [angel_ring]
+[18:21:01.702][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [beyond_earth]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [compressium]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [immersive_aircraft]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [extended_crafting]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [skyblock_recipes]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [superflat_recipes]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [chipped]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [iron_chests]
+[18:21:01.703][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ore_recipes]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [simple_storage]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [storage_drawers]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [framed_blocks]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [flux_networks]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [tempad]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [tiab]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [trash_cans]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [laserio]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [xnet]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [building_gadgets]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [elevators]
+[18:21:01.703][INFO]: Set the stages of package: "appeng" to: [ender_storage]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [little_logistics]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [thermal]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [ae2]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [refinedstorage]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [mekanism]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [waystones]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [powah]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [angel_ring]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [beyond_earth]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [compressium]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [immersive_aircraft]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [extended_crafting]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [skyblock_recipes]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [superflat_recipes]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [chipped]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [iron_chests]
+[18:21:01.704][INFO]: Set the stages of package: "appeng" to: [ore_recipes]
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [framed_blocks].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [simple_storage].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [flux_networks].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [tempad].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [tiab].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [trash_cans].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [laserio].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [xnet].
+[18:21:01.710][INFO]: [ItemStages] Creating new restriction for stages [xnet].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [building_gadgets].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [elevators].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [ender_storage].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [little_logistics].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [thermal].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [thermal].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [mekanism].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [waystones].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [powah].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [angel_ring].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [beyond_earth].
+[18:21:01.711][INFO]: [ItemStages] Creating new restriction for stages [construction_wand].
+[18:21:01.713][INFO]: [ItemStages] Creating new restriction for stages [beyond_earth].
+[18:21:01.713][INFO]: [ItemStages] Creating new restriction for stages [compressium].
+[18:21:01.713][INFO]: [ItemStages] Creating new restriction for stages [immersive_aircraft].
+[18:21:01.713][INFO]: [ItemStages] Creating new restriction for stages [chipped].
+[18:21:01.713][INFO]: [ItemStages] Creating new restriction for stages [iron_chests].
+[18:21:01.717][INFO]: [ItemStages] Creating new restriction for stages [extended_crafting].
+[18:21:01.717][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:01.717][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:01.717][INFO]: Execution for loader 'crafttweaker' completed successfully
+[18:21:01.723][INFO]: This reload was made possible by NerdyWhiteGuy and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[18:21:15.198][INFO]: Started loading scripts for loader 'tags'
+[18:21:15.198][INFO]: Undoing previous actions
+[18:21:15.213][INFO]: Compiling and executing scripts
+[18:21:15.216][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:21:15.225][INFO]: Execution for loader 'tags' completed successfully
+[18:21:21.703][INFO]: Started loading scripts for loader 'crafttweaker'
+[18:21:21.704][INFO]: Undoing previous actions
+[18:21:21.704][INFO]: Removing the stages "[simple_storage]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[storage_drawers]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[framed_blocks]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[flux_networks]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[tempad]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[tiab]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[trash_cans]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[laserio]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[xnet]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[building_gadgets]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[elevators]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[ender_storage]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[little_logistics]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[thermal]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[ae2]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[refinedstorage]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[mekanism]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[waystones]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[powah]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[angel_ring]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[beyond_earth]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[compressium]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[immersive_aircraft]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[extended_crafting]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[skyblock_recipes]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[superflat_recipes]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[chipped]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[iron_chests]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[ore_recipes]" of package: "com.blakebr0.extendedcrafting"
+[18:21:21.705][INFO]: Removing the stages "[simple_storage]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[storage_drawers]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[framed_blocks]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[flux_networks]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[tempad]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[tiab]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[trash_cans]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[laserio]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[xnet]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[building_gadgets]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[elevators]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[ender_storage]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[little_logistics]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[thermal]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[ae2]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.705][INFO]: Removing the stages "[refinedstorage]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[mekanism]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[waystones]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[powah]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[angel_ring]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[beyond_earth]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[compressium]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[immersive_aircraft]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[extended_crafting]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[techopolis]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[opolisutilities]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[skyblock_recipes]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[superflat_recipes]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[chipped]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[iron_chests]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[ore_recipes]" of package: "com.refinedmods.refinedstorage"
+[18:21:21.706][INFO]: Removing the stages "[simple_storage]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[storage_drawers]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[framed_blocks]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[flux_networks]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[tempad]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[tiab]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[trash_cans]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[laserio]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[xnet]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[building_gadgets]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[elevators]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[ender_storage]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[little_logistics]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[thermal]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[ae2]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[refinedstorage]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[mekanism]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[waystones]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[powah]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[angel_ring]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[beyond_earth]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[compressium]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[immersive_aircraft]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[extended_crafting]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[skyblock_recipes]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[superflat_recipes]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[chipped]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[iron_chests]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[ore_recipes]" of package: "blusunrize.immersiveengineering.common"
+[18:21:21.706][INFO]: Removing the stages "[simple_storage]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[storage_drawers]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[framed_blocks]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[flux_networks]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[tempad]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[tiab]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[trash_cans]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[laserio]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[xnet]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[building_gadgets]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[elevators]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[ender_storage]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[little_logistics]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[thermal]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[ae2]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[refinedstorage]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[mekanism]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[waystones]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[powah]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[angel_ring]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[beyond_earth]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[compressium]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[immersive_aircraft]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[extended_crafting]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[skyblock_recipes]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[superflat_recipes]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[chipped]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[iron_chests]" of package: "appeng"
+[18:21:21.706][INFO]: Removing the stages "[ore_recipes]" of package: "appeng"
+[18:21:21.722][INFO]: Compiling and executing scripts
+[18:21:21.813][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:21:21.813][INFO]: Loading file 'script.zs' with priority 0
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [simple_storage]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [storage_drawers]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [framed_blocks]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [flux_networks]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [tempad]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [tiab]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [trash_cans]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [laserio]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [xnet]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [building_gadgets]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [elevators]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ender_storage]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [little_logistics]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [thermal]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ae2]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [refinedstorage]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [mekanism]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [waystones]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [powah]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [angel_ring]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [beyond_earth]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [compressium]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [immersive_aircraft]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [extended_crafting]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [skyblock_recipes]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [superflat_recipes]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [chipped]
+[18:21:21.830][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [iron_chests]
+[18:21:21.831][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ore_recipes]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [simple_storage]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [storage_drawers]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [framed_blocks]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [flux_networks]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [tempad]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [tiab]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [trash_cans]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [laserio]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [xnet]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [building_gadgets]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [elevators]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ender_storage]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [little_logistics]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [thermal]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ae2]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [refinedstorage]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [mekanism]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [waystones]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [powah]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [angel_ring]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [beyond_earth]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [compressium]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [immersive_aircraft]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [extended_crafting]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [techopolis]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [opolisutilities]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [skyblock_recipes]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [superflat_recipes]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [chipped]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [iron_chests]
+[18:21:21.831][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ore_recipes]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [simple_storage]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [storage_drawers]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [framed_blocks]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [flux_networks]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [tempad]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [tiab]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [trash_cans]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [laserio]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [xnet]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [building_gadgets]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [elevators]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ender_storage]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [little_logistics]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [thermal]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ae2]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [refinedstorage]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [mekanism]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [waystones]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [powah]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [angel_ring]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [beyond_earth]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [compressium]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [immersive_aircraft]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [extended_crafting]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [skyblock_recipes]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [superflat_recipes]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [chipped]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [iron_chests]
+[18:21:21.831][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ore_recipes]
+[18:21:21.831][INFO]: Set the stages of package: "appeng" to: [simple_storage]
+[18:21:21.831][INFO]: Set the stages of package: "appeng" to: [storage_drawers]
+[18:21:21.831][INFO]: Set the stages of package: "appeng" to: [framed_blocks]
+[18:21:21.831][INFO]: Set the stages of package: "appeng" to: [flux_networks]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [tempad]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [tiab]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [trash_cans]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [laserio]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [xnet]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [building_gadgets]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [elevators]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [ender_storage]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [little_logistics]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [thermal]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [ae2]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [refinedstorage]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [mekanism]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [waystones]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [powah]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [angel_ring]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [beyond_earth]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [compressium]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [immersive_aircraft]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [extended_crafting]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [skyblock_recipes]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [superflat_recipes]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [chipped]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [iron_chests]
+[18:21:21.832][INFO]: Set the stages of package: "appeng" to: [ore_recipes]
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [framed_blocks].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [simple_storage].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [flux_networks].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [tempad].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [tiab].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [trash_cans].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [laserio].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [xnet].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [xnet].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [building_gadgets].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [elevators].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [ender_storage].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [little_logistics].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [thermal].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [thermal].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [mekanism].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [waystones].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [powah].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [angel_ring].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [beyond_earth].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [construction_wand].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [beyond_earth].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [compressium].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [immersive_aircraft].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [chipped].
+[18:21:21.833][INFO]: [ItemStages] Creating new restriction for stages [iron_chests].
+[18:21:21.834][INFO]: [ItemStages] Creating new restriction for stages [extended_crafting].
+[18:21:21.834][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:21.834][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:21:21.834][INFO]: Execution for loader 'crafttweaker' completed successfully
+[18:21:21.834][INFO]: This reload was made possible by Phillip Swearingain and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
+[18:29:18.281][INFO]: Started loading scripts for loader 'tags'
+[18:29:18.281][INFO]: Undoing previous actions
+[18:29:18.295][INFO]: Compiling and executing scripts
+[18:29:18.298][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[18:29:18.305][INFO]: Execution for loader 'tags' completed successfully
+[18:29:23.476][INFO]: Started loading scripts for loader 'crafttweaker'
+[18:29:23.476][INFO]: Undoing previous actions
+[18:29:23.476][INFO]: Removing the stages "[simple_storage]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[storage_drawers]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[framed_blocks]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[flux_networks]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[tempad]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[tiab]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[trash_cans]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[laserio]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[xnet]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[building_gadgets]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.476][INFO]: Removing the stages "[elevators]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[ender_storage]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[little_logistics]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[thermal]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[ae2]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[refinedstorage]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[mekanism]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[waystones]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[powah]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[angel_ring]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[beyond_earth]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[compressium]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[immersive_aircraft]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[extended_crafting]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[skyblock_recipes]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[superflat_recipes]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[chipped]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[iron_chests]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[ore_recipes]" of package: "com.blakebr0.extendedcrafting"
+[18:29:23.477][INFO]: Removing the stages "[simple_storage]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[storage_drawers]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[framed_blocks]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[flux_networks]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[tempad]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[tiab]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[trash_cans]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[laserio]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[xnet]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[building_gadgets]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[elevators]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[ender_storage]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[little_logistics]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[thermal]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[ae2]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[refinedstorage]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[mekanism]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[waystones]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[powah]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[angel_ring]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[beyond_earth]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[compressium]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[immersive_aircraft]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[extended_crafting]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[techopolis]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[opolisutilities]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[skyblock_recipes]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[superflat_recipes]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[chipped]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[iron_chests]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[ore_recipes]" of package: "com.refinedmods.refinedstorage"
+[18:29:23.477][INFO]: Removing the stages "[simple_storage]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[storage_drawers]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[framed_blocks]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[flux_networks]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[tempad]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[tiab]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[trash_cans]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[laserio]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[xnet]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[building_gadgets]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[elevators]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[ender_storage]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[little_logistics]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[thermal]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[ae2]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[refinedstorage]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[mekanism]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.477][INFO]: Removing the stages "[waystones]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[powah]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[angel_ring]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[beyond_earth]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[compressium]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[immersive_aircraft]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[extended_crafting]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[skyblock_recipes]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[superflat_recipes]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[chipped]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[iron_chests]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[ore_recipes]" of package: "blusunrize.immersiveengineering.common"
+[18:29:23.478][INFO]: Removing the stages "[simple_storage]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[storage_drawers]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[framed_blocks]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[flux_networks]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[tempad]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[tiab]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[trash_cans]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[laserio]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[xnet]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[building_gadgets]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[elevators]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[ender_storage]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[little_logistics]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[thermal]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[ae2]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[refinedstorage]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[mekanism]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[waystones]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[powah]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[angel_ring]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[beyond_earth]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[compressium]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[immersive_aircraft]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[extended_crafting]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[skyblock_recipes]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[superflat_recipes]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[chipped]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[iron_chests]" of package: "appeng"
+[18:29:23.478][INFO]: Removing the stages "[ore_recipes]" of package: "appeng"
+[18:29:23.488][INFO]: Compiling and executing scripts
+[18:29:23.554][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[18:29:23.554][INFO]: Loading file 'script.zs' with priority 0
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [simple_storage]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [storage_drawers]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [framed_blocks]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [flux_networks]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [tempad]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [tiab]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [trash_cans]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [laserio]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [xnet]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [building_gadgets]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [elevators]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ender_storage]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [little_logistics]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [thermal]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ae2]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [refinedstorage]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [mekanism]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [waystones]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [powah]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [angel_ring]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [beyond_earth]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [compressium]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [immersive_aircraft]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [extended_crafting]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [skyblock_recipes]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [superflat_recipes]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [chipped]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [iron_chests]
+[18:29:23.566][INFO]: Set the stages of package: "com.blakebr0.extendedcrafting" to: [ore_recipes]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [simple_storage]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [storage_drawers]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [framed_blocks]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [flux_networks]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [tempad]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [tiab]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [trash_cans]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [laserio]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [xnet]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [building_gadgets]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [elevators]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ender_storage]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [little_logistics]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [thermal]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ae2]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [refinedstorage]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [mekanism]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [waystones]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [powah]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [angel_ring]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [beyond_earth]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [compressium]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [immersive_aircraft]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [extended_crafting]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [techopolis]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [opolisutilities]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [skyblock_recipes]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [superflat_recipes]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [chipped]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [iron_chests]
+[18:29:23.566][INFO]: Set the stages of package: "com.refinedmods.refinedstorage" to: [ore_recipes]
+[18:29:23.566][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [simple_storage]
+[18:29:23.566][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [storage_drawers]
+[18:29:23.566][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [framed_blocks]
+[18:29:23.566][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [flux_networks]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [tempad]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [tiab]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [trash_cans]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [laserio]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [xnet]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [building_gadgets]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [elevators]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ender_storage]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [little_logistics]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [thermal]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ae2]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [refinedstorage]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [mekanism]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [waystones]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [powah]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [angel_ring]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [beyond_earth]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [compressium]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [immersive_aircraft]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [extended_crafting]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [skyblock_recipes]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [superflat_recipes]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [chipped]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [iron_chests]
+[18:29:23.567][INFO]: Set the stages of package: "blusunrize.immersiveengineering.common" to: [ore_recipes]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [simple_storage]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [storage_drawers]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [framed_blocks]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [flux_networks]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [tempad]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [tiab]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [trash_cans]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [laserio]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [xnet]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [building_gadgets]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [elevators]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [ender_storage]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [little_logistics]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [thermal]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [ae2]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [refinedstorage]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [mekanism]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [waystones]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [powah]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [angel_ring]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [beyond_earth]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [compressium]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [immersive_aircraft]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [extended_crafting]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [skyblock_recipes]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [superflat_recipes]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [chipped]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [iron_chests]
+[18:29:23.567][INFO]: Set the stages of package: "appeng" to: [ore_recipes]
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [framed_blocks].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [simple_storage].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [flux_networks].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [tempad].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [tiab].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [trash_cans].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [laserio].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [xnet].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [xnet].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [building_gadgets].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [elevators].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [ender_storage].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [little_logistics].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [thermal].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [thermal].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [ae2].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [refinedstorage].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [mekanism].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [waystones].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [powah].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [angel_ring].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [beyond_earth].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [construction_wand].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [beyond_earth].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [compressium].
+[18:29:23.567][INFO]: [ItemStages] Creating new restriction for stages [immersive_aircraft].
+[18:29:23.568][INFO]: [ItemStages] Creating new restriction for stages [chipped].
+[18:29:23.568][INFO]: [ItemStages] Creating new restriction for stages [iron_chests].
+[18:29:23.568][INFO]: [ItemStages] Creating new restriction for stages [extended_crafting].
+[18:29:23.568][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:29:23.568][INFO]: [ItemStages] Creating new restriction for stages [storage_drawers].
+[18:29:23.568][INFO]: Execution for loader 'crafttweaker' completed successfully
+[18:29:23.569][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

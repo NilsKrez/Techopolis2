@@ -1,0 +1,10 @@
+{
+	id: "6B2360464F852DE0"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ count: 36, item: "minecraft:copper_ore" }
+		{ count: 36, item: "minecraft:deepslate_copper_ore" }
+	]
+	title: "Copper Ore"
+}

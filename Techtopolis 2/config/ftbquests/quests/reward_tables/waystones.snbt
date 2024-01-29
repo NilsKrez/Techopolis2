@@ -1,0 +1,11 @@
+{
+	id: "7E81BA3CBBFDC25B"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{ item: "waystones:waystone" }
+		{ item: "waystones:mossy_waystone" }
+		{ item: "waystones:sandy_waystone" }
+	]
+	title: "Waystones"
+}

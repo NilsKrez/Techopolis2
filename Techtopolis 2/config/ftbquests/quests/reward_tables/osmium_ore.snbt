@@ -1,0 +1,10 @@
+{
+	id: "37EF0ADE90FAA815"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{ count: 36, item: "alltheores:osmium_ore" }
+		{ count: 36, item: "alltheores:deepslate_osmium_ore" }
+	]
+	title: "Osmium Ore"
+}

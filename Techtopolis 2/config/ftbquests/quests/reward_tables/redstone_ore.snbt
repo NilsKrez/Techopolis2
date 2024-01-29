@@ -1,0 +1,10 @@
+{
+	id: "4AA3ED6398C5C81C"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ count: 36, item: "minecraft:redstone_ore" }
+		{ count: 36, item: "minecraft:deepslate_redstone_ore" }
+	]
+	title: "Redstone Ore"
+}

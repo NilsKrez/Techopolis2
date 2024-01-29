@@ -1,0 +1,188 @@
+{
+    "classes": [
+        {
+            "type": "document:class",
+            "className": "dev.latvian.mods.kubejs.server.TagEventJS",
+            "methods": [
+                {
+                    "properties": [
+                        {
+                            "type": "property:hide"
+                        }
+                    ],
+                    "type": "document:method",
+                    "name": "removeAllTagsFrom",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "ids",
+                            "paramType": {
+                                "type": "type:array",
+                                "component": {
+                                    "type": "type:class",
+                                    "name": "java.lang.String"
+                                }
+                            },
+                            "varArg": true
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:class",
+                        "name": "void"
+                    }
+                },
+                {
+                    "properties": [
+                        {
+                            "type": "property:hide"
+                        }
+                    ],
+                    "type": "document:method",
+                    "name": "get",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "id",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.resources.ResourceLocation"
+                            },
+                            "varArg": false
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:parameterized",
+                        "params": [],
+                        "base": {
+                            "type": "type:class",
+                            "name": "dev.latvian.mods.kubejs.server.TagEventJS$TagWrapper"
+                        }
+                    }
+                },
+                {
+                    "properties": [
+                        {
+                            "type": "property:hide"
+                        }
+                    ],
+                    "type": "document:method",
+                    "name": "add",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "tag",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.resources.ResourceLocation"
+                            },
+                            "varArg": false
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "ids",
+                            "paramType": {
+                                "type": "type:array",
+                                "component": {
+                                    "type": "type:class",
+                                    "name": "java.lang.String"
+                                }
+                            },
+                            "varArg": true
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:parameterized",
+                        "params": [],
+                        "base": {
+                            "type": "type:class",
+                            "name": "dev.latvian.mods.kubejs.server.TagEventJS$TagWrapper"
+                        }
+                    }
+                },
+                {
+                    "properties": [
+                        {
+                            "type": "property:hide"
+                        }
+                    ],
+                    "type": "document:method",
+                    "name": "remove",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "tag",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.resources.ResourceLocation"
+                            },
+                            "varArg": false
+                        },
+                        {
+                            "type": "property:param",
+                            "name": "ids",
+                            "paramType": {
+                                "type": "type:array",
+                                "component": {
+                                    "type": "type:class",
+                                    "name": "java.lang.String"
+                                }
+                            },
+                            "varArg": true
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:parameterized",
+                        "params": [],
+                        "base": {
+                            "type": "type:class",
+                            "name": "dev.latvian.mods.kubejs.server.TagEventJS$TagWrapper"
+                        }
+                    }
+                },
+                {
+                    "properties": [
+                        {
+                            "type": "property:hide"
+                        }
+                    ],
+                    "type": "document:method",
+                    "name": "removeAll",
+                    "static": false,
+                    "abstract": false,
+                    "params": [
+                        {
+                            "type": "property:param",
+                            "name": "tag",
+                            "paramType": {
+                                "type": "type:class",
+                                "name": "net.minecraft.resources.ResourceLocation"
+                            },
+                            "varArg": false
+                        }
+                    ],
+                    "variables": [],
+                    "returns": {
+                        "type": "type:parameterized",
+                        "params": [],
+                        "base": {
+                            "type": "type:class",
+                            "name": "dev.latvian.mods.kubejs.server.TagEventJS$TagWrapper"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

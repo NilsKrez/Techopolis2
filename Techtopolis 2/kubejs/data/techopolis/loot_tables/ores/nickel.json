@@ -1,0 +1,14 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 24,
+        "max": 40
+      },
+      "entries": [		
+        {"type": "minecraft:item", "weight": 50, "name": "caveopolis:nickel_fragment"},
+        {"type": "minecraft:empty", "weight": 50}
+      ]
+    }
+  ]
+}

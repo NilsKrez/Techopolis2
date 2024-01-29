@@ -1,0 +1,15 @@
+{
+	id: "5215AA98957A3809"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{ item: "chipped:botanist_workbench" }
+		{ item: "chipped:glassblower" }
+		{ item: "chipped:carpenters_table" }
+		{ item: "chipped:loom_table" }
+		{ item: "chipped:mason_table" }
+		{ item: "chipped:tinkering_table" }
+		{ item: "chipped:alchemy_bench" }
+	]
+	title: "Chipped Blocks"
+}

@@ -1,0 +1,9 @@
+
+["Miners config file"]
+	#Chance that leaves generate from tree absorbers, 0.0 = always, 1.0 = never, 0.5 = 50% chance, default = 0.25
+	"Leaves drop chance" = 0.5
+	#Chance that stick generate from tree absorbers, 0.0 = always, 1.0 = never, 0.5 = 50% chance, default = 0.25
+	"Sticks drop chance" = 0.9
+	#Chance that stick generate from tree absorbers (Jungle Trees Only), 0.0 = always, 1.0 = never, 0.5 = 50% chance, default = 0.25
+	"Apples drop chance" = 0.9
+

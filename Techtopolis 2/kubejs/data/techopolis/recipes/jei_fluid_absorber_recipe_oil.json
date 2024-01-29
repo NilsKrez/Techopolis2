@@ -1,0 +1,21 @@
+{
+  "type": "miners:fluid_absorber",
+    "ingredients": [
+      {
+        "item": "miners:fluid_absorber"
+      },
+      {
+        "tag": "miners:iron_support_frame"
+      },
+      {
+        "tag": "miners:iron_support_frame"
+      }
+    ],
+    "fluid": {
+      "Amount": 25000,
+      "FluidName": "beyond_earth:oil"
+    },
+  "output": {
+    "item": "minecraft:stone"
+  }
+}

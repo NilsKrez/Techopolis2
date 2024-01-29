@@ -1,0 +1,10 @@
+{
+	id: "79B5C498CA416EFF"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ count: 36, item: "thermal:niter_ore" }
+		{ count: 36, item: "thermal:deepslate_niter_ore" }
+	]
+	title: "Niter Ore"
+}

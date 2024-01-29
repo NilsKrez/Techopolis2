@@ -1,0 +1,10 @@
+
+[guipostion]
+	x = 5
+	y = 5
+
+#curiotiab's Client Config Settings
+[settings]
+	#Use 'TIAB Curio' Header in Overlay
+	useheader = true
+

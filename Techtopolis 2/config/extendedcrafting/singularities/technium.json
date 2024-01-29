@@ -1,0 +1,10 @@
+{
+  "name": "Technium",
+  "colors": [
+    "caccda",
+    "9a9ca6"
+  ],
+  "ingredient": {
+    "item": "techopolis:ultimate_technium_ingot"
+  }
+}

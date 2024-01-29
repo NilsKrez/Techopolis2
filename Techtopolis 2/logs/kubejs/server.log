@@ -1,0 +1,42 @@
+[18:29:16] [INIT] KubeJS 1902.6.2-build.33; MC 1902 forge
+[18:29:16] [INIT] Loaded plugins:
+[18:29:16] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:29:16] [INIT] - dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration
+[18:29:16] [INIT] - com.almostreliable.morejs.Plugin
+[18:29:16] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[18:29:16] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[18:29:16] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:29:16] [INFO] Loaded script server_scripts:constants.js in 0.004 s
+[18:29:16] [INFO] Loaded script server_scripts:game_stages.js in 0.023 s
+[18:29:16] [INFO] crafting.js#3: Hello, World! (You will see this line every time server resources reload)
+[18:29:16] [INFO] Loaded script server_scripts:crafting.js in 0.041 s
+[18:29:16] [INFO] technium_crafting.js#3: Hello, World! (You will see this line every time server resources reload)
+[18:29:16] [INFO] Loaded script server_scripts:technium_crafting.js in 0.004 s
+[18:29:16] [INFO] ores.js#3: Hello, World! (You will see this line every time server resources reload)
+[18:29:16] [INFO] Loaded script server_scripts:ores.js in 0.008 s
+[18:29:16] [INFO] Loaded script server_scripts:tags.js in 0.003 s
+[18:29:16] [INFO] Loaded 6/6 KubeJS server scripts in 0.095 s
+[18:29:16] [INFO] Scripts loaded
+[18:29:16] [INFO] Initializing recipe event...
+[18:29:16] [INFO] [minecraft:item] Found 1392 tags, added 100 objects, removed 2 objects
+[18:29:16] [INFO] [minecraft:block] Found 825 tags, added 31 objects, removed 0 objects
+[18:29:19] [INFO] Processing recipes...
+[18:29:19] [WARN] Failed to parse recipe 'beyond_earth:rusted_iron_pillar_block[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[18:29:19] [INFO] Found 8671 recipes in 54.47 ms
+[18:29:19] [INFO] game_stages.js#112: Loaded Java class 'net.minecraft.world.item.crafting.CraftingRecipe'
+[18:29:22] [INFO] Posted recipe events in 3.687 s
+[18:29:22] [WARN] Error parsing recipe techopolis:mekanism/smelter/luminum_to_ingot[mekanism:smelting]: {"type":"mekanism:smelting","input":{"amount":2,"ingredient":{"tag":"forge:dusts/luminum"}},"output":{"item":"minecraft:air","count":0}}: com.google.gson.JsonSyntaxException: Invalid item: minecraft:air
+[18:29:22] [WARN] Error parsing recipe techopolis:mekanism/enriching/dye[mekanism:enriching]: {"type":"mekanism:enriching","input":{"amount":1,"ingredient":{"tag":"forge:ores/dye"}},"output":{"item":"techopolis:dye_base","count":5}}: com.google.gson.JsonSyntaxException: Unknown item 'techopolis:dye_base'
+[18:29:22] [WARN] Error parsing recipe thermal:kjs_c08aou05p83al965s94s7oipr[thermal:press]: {"type":"thermal:press","ingredient":{"tag":"forge:ingots/platium"},"result":[{"item":"alltheores:platium_plate"}]}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:kjs_c08aou05p83al965s94s7oipr
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[18:29:22] [WARN] Error parsing recipe techopolis:energized_steel_1_to_energized_steel_2[kubejs:shaped]: {"type":"minecraft:crafting_shaped","result":{"item":"powah:steel_energized","count":1},"pattern":["   ","   ","   "],"key":{}}: java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+[18:29:22] [WARN] Duplicate recipe for id techopolis:nuclear_waste! Using last one encountered.
+[18:29:22] [WARN] Error parsing recipe techopolis:thermal/smelter/luminum_to_ingot[thermal:furnace]: {"type":"thermal:furnace","ingredient":{"tag":"forge:dusts/luminum","count":2},"result":{"item":"minecraft:air","count":0},"experience":0.3,"energy_mod":2}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: techopolis:thermal/smelter/luminum_to_ingot
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[18:29:22] [WARN] Error parsing recipe techopolis:thermal/pulverizer/dye[thermal:pulverizer]: {"type":"thermal:pulverizer","ingredient":{"tag":"forge:ores/dye","count":1},"result":[{"item":"techopolis:dye_base","count":5}],"energy_mod":0.5}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: techopolis:thermal/pulverizer/dye
+Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
+[18:29:22] [WARN] You might want to check your scripts for errors.
+[18:29:22] [INFO] Added 631 recipes, removed 530 recipes, modified 2536 recipes, with 6 failed recipes in 14.24 ms
+[18:31:33] [INFO] game_stages.js#311: Current world type is minecraft:noise
+[18:53:36] [INFO] game_stages.js#311: Current world type is minecraft:noise
+[19:29:57] [INFO] game_stages.js#311: Current world type is minecraft:noise
